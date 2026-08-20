@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# pikayun PikaCloud VPN Official Address (Updated August 19, 2026)
+# pikayun PikaCloud VPN Official Address (Updated August 20, 2026)
 
 pikayun PikaCloud VPN Official Website Address</br>
 Official Address: [app.pikayun.com](https://to.iix.im/pk01)</br>
