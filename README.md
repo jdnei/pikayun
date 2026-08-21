@@ -2,7 +2,7 @@
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 
-# pikayun皮卡云机场官方地址(2026年8月20日更新)
+# pikayun皮卡云机场官方地址(2026年8月21日更新)
 pikayun皮卡云机场官网地址</br>
 ~~官方地址：[app.pikayun.com](https://to.iix.im/pk01)</br>~~
 
