@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی pikayun PikaCloud VPN (به‌روزرسانی 2 سپتامبر 2026)
+# آدرس رسمی pikayun PikaCloud VPN (به‌روزرسانی 3 سپتامبر 2026)
 
 آدرس وب‌سایت رسمی pikayun PikaCloud VPN</br>
 آدرس رسمی: [app.pikayun.com](https://to.iix.im/pk01)</br>
