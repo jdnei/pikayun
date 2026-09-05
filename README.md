@@ -4,9 +4,8 @@
 
 # pikayun皮卡云机场官方地址(2026年9月5日更新)
 pikayun皮卡云机场官网地址</br>
-~~官方地址：[app.pikayun.com](https://to.iix.im/pk01)</br>~~
+官方地址：[app.pikayun.com](https://to.iix.im/pk01)</br>
 
-谨慎付款，疑似跑路，联系不上管理了（如果危机解除，我再删除这条）</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
