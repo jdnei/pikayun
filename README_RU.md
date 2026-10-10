@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный адрес pikayun PikaCloud VPN (обновлено 9 октября 2026)
+# Официальный адрес pikayun PikaCloud VPN (обновлено 10 октября 2026)
 
 Адрес официального сайта pikayun PikaCloud VPN</br>
 Официальный адрес: [app.pikayun.com](https://to.iix.im/pk01)</br>
